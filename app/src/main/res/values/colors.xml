@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDark">#252525</color>
+    <color name="colorDarkLight">#7F252525</color>
+    <color name="colorLight">#FFF</color>
+    <color name="colorPrimary">@color/colorAccent</color>
+    <color name="colorPrimaryDark">#CAA900</color>
+    <color name="colorAccent">#FFD600</color>
+    <color name="colorControl">@color/colorDark</color>
+    <color name="colorControlDisabled">@color/colorDarkLight</color>
+    <color name="delete">#d65819</color>
+</resources>

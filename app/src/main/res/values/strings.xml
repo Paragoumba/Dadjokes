@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">DadJokes</string>
+    <string name="view_list">View list</string>
+    <string name="random">Random</string>
+    <string name="date">%1$02d-%2$02d-%3$02d</string>
+    <string name="dadjoke_nb" translatable="false">DadJoke #%1$d</string>
+    <string name="show_joke_list">Show joke list</string>
+    <string name="trash">Trash</string>
+    <string name="load_another_joke">Load another joke</string>
+    <string name="set_joke_as_favorite">Set joke as favorite</string>
+</resources>
